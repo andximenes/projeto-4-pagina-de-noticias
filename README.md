@@ -1,4 +1,4 @@
-<h1 align="center">🗞️ Quarto Projeto | Página de Notícias</h1>
+<h1 align="center">🗞️ Quarto Projeto | Portal de Notícias</h1>
 
 <p align="center">
   Projeto desenvolvido durante o curso de <strong>Full-Stack da Rocketseat</strong>, utilizando <strong>HTML</strong> e <strong>CSS</strong>.
